@@ -6,3 +6,5 @@ users can also be deleted, delete thoughts and reactions, and remove friends.
 
 ![Screenshot (62)](https://github.com/Carsov2/nosql-media/assets/114614370/41766346-d5fe-42ae-b796-cb7414566619)
 
+https://watch.screencastify.com/v/u5RVxeWpfHIjtiEs4wEx
+
